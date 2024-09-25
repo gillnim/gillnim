@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nimrat</h1>
 <h3 align="center">A passionate full stack developer and a systems engineer from BC, Canada.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gillnim" alt="gillnim" /></a> </p>
-
 - 🌱 I’m currently learning **API, REACT and Web Development**
 
 - 💬 Ask me about **space and my dog duke 🐾**
