@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nimrat</h1>
 <h3 align="center">A passionate full stack developer and a systems engineer from BC, Canada.</h3>
 
-- 🌱 I’m currently learning **AI Algorithms**
+- 🌱 I’m currently learning **Three JS**
 
 - 💬 Ask me about **space and my dog duke 🐾**
 
