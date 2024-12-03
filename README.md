@@ -16,7 +16,7 @@
 
 <h3 align="left">Check out my website</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/nimrat-gill/](https://nimratgill.com/)" target="blank"></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/nimrat-gill/](https://nimratgill.com/)" target="blank">nimratgill.com</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
